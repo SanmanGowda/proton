@@ -4,8 +4,8 @@
 - Maven 3.9 
 - MySQL 8
 
-# Technologies 
-######
+# Technologies
+
 - JAKARTA
 - Spring MVC
 - Spring Security
@@ -18,6 +18,7 @@
 - Rabbitmq
 - ElasticSearch
 # Database
+######
 Here,we used Mysql DB 
 sql dump file:
 - /src/main/resources/db_backup.sql
